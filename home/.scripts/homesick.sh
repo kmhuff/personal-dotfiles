@@ -1,1 +1,1 @@
-export PATH=`gem env gempath`:$PATH
+pupdate `gem env gempath`
