@@ -1,1 +1,0 @@
-pupdate `gem env gempath`
